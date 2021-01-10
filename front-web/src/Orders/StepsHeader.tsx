@@ -1,4 +1,3 @@
-import { setupMaster } from 'cluster';
 function StepsHeader(){
     return (
         <header className="orders-steps-container">
